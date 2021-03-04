@@ -1,3 +1,7 @@
-# Sichan_bot
+# nana
 
-使用nonebot2进行直播推送的机器人系列，正在填坑中
+## How to start
+
+1. generate project using `nb create` .
+2. writing your plugins under `src/plugins` folder.
+3. run your bot using `nb run` .
