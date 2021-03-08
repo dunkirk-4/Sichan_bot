@@ -6,7 +6,9 @@
 使用前请确认你的电脑装有nonebot2以及其所依赖的包
 
 ### 1.下载文件后在env.prod中添加你的配置
+
 SUPERUSERS=[""]  # 配置 NoneBot 超级用户的QQ号
+
 NICKNAME=[""]  # 配置机器人的昵称
 
 ### 2.打开src\plugins\Sichan\live_status_inquiry.py
